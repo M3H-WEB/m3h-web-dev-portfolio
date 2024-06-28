@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/m3h-web-dev-portfolio/static/css/main.7b945c1e.css",
+    "main.js": "/m3h-web-dev-portfolio/static/js/main.68397166.js",
+    "static/js/453.69a3e7c6.chunk.js": "/m3h-web-dev-portfolio/static/js/453.69a3e7c6.chunk.js",
+    "static/media/png": "/m3h-web-dev-portfolio/static/media/08c1f271f8d4ca3add213becb54933a9.53cc084476822f5807f0.png",
+    "static/media/59446-original-1200.jpg": "/m3h-web-dev-portfolio/static/media/59446-original-1200.4a5bf8761464640684da.jpg",
+    "static/media/jpg": "/m3h-web-dev-portfolio/static/media/8609184c33f8318c27779f837c3458dc.d52697acd13665587ce9.jpg",
+    "static/media/logo4.jpg": "/m3h-web-dev-portfolio/static/media/logo4.d3eece3b2b779f4061b5.jpg",
+    "static/media/ogani-1.jpg": "/m3h-web-dev-portfolio/static/media/ogani-1.5aa003f1d7df5846cd05.jpg",
+    "static/media/restaurant-food-menu-landing-page-web-ui-design-template_486734-353.avif": "/m3h-web-dev-portfolio/static/media/restaurant-food-menu-landing-page-web-ui-design-template_486734-353.c81c8cd4124cb856b8fc.avif",
+    "index.html": "/m3h-web-dev-portfolio/index.html",
+    "main.7b945c1e.css.map": "/m3h-web-dev-portfolio/static/css/main.7b945c1e.css.map",
+    "main.68397166.js.map": "/m3h-web-dev-portfolio/static/js/main.68397166.js.map",
+    "453.69a3e7c6.chunk.js.map": "/m3h-web-dev-portfolio/static/js/453.69a3e7c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b945c1e.css",
+    "static/js/main.68397166.js"
+  ]
+}
